@@ -1,0 +1,35 @@
+#containerX{
+    min-width: 0px;
+    max-width: 100% !important;
+    width: auto;
+}
+
+.main-column{
+    padding:2px !important;
+}
+
+.blockinstance{
+    padding-bottom: 0px;
+}
+
+#top-wrapper{
+    display:none !important;
+}
+
+#footer-wrap{
+    display:none !important;
+}
+
+body#micro {
+    background: none repeat scroll 0 0 #ffffff;
+}
+
+#main-column-container h1{
+    padding-bottom: 0px;
+    margin-bottom: 2px;
+    font-size: 1.2em;
+}
+
+.blockinstance-header{
+    display:none;
+}
